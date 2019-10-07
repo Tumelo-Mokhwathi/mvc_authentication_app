@@ -1,0 +1,99 @@
+﻿@model MyApp.Models.Employee
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/bower_components/Ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="/dist//css/style.css">
+    <link rel="stylesheet" href="/dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="/plugins/iCheck/square/blue.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <style>
+        body {
+            background: url('../../images/slide-2.jpg');
+            text-align: center;
+            font-family: 'Rajdhani', sans-serif;
+            font-weight: 400;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box" style="width: 500px">
+        <div class="login-box-body">
+            <section id="loginForm">
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+                        <h4>Employee</h4>
+                        <hr />
+                        @Html.ValidationSummary(true)
+                        @Html.HiddenFor(model => model.EmployeeID)
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.FirstName)
+                                @Html.ValidationMessageFor(model => model.FirstName)
+                            </div>
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.LastName, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.LastName)
+                                @Html.ValidationMessageFor(model => model.LastName)
+                        </div>
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.Age, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.Age)
+                                @Html.ValidationMessageFor(model => model.Age)
+                        </div>
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.Company, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.Company)
+                                @Html.ValidationMessageFor(model => model.Company)
+                        </div>
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.Department, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.Department)
+                                @Html.ValidationMessageFor(model => model.Department)
+                        </div>
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.Contact, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.Contact)
+                                @Html.ValidationMessageFor(model => model.Contact)
+                        </div>
+
+                        <div class="form-group has-feedback" style="margin: 0 15px 25px 15px">
+                                @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+                                @Html.EditorFor(model => model.Address)
+                                @Html.ValidationMessageFor(model => model.Address)
+                        </div>
+
+                        <div class="form-group has-feedback">
+                            <input type="submit" value="Save" class="btn btn-primary btn-block btn-flat" style="margin-left:100px" />
+                        </div>
+              }
+            </section>
+            <div>
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        </div>
+    </div>
+
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

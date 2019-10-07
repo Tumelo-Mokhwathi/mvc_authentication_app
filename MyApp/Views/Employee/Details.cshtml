@@ -1,0 +1,108 @@
+﻿@model MyApp.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/bower_components/Ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="/dist//css/style.css">
+    <link rel="stylesheet" href="/dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="/plugins/iCheck/square/blue.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <style>
+        body {
+            background: url('../../images/slide-2.jpg');
+            text-align: center;
+            font-family: 'Rajdhani', sans-serif;
+            font-weight: 400;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box" style="width: 500px">
+        <div class="login-box-body">
+            <section id="loginForm">
+                <div>
+                    <h4>Employee Details</h4>
+                    <hr />
+                    <dl class="dl-horizontal" style="height:200px">
+                        <dt>
+                            @Html.DisplayNameFor(model => model.FirstName)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.FirstName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.LastName)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.LastName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Age)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Age)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Company)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Company)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Department)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Department)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Contact)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Contact)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Address)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Address)
+                        </dd>
+
+                    </dl>
+                </div>
+                <p>
+                    @Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeID }) |
+                    @Html.ActionLink("Back to List", "Index")
+                </p>
+            </section>
+        </div>
+    </div>
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+

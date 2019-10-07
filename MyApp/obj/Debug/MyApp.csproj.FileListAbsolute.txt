@@ -1,0 +1,176 @@
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\MyApp.dll.config
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\MyApp.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\MyApp.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Antlr3.Runtime.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\EntityFramework.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\EntityFramework.SqlServer.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Google.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Web.Infrastructure.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Newtonsoft.Json.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Owin.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Helpers.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Mvc.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Optimization.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Razor.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.WebPages.Deployment.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.WebPages.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.WebPages.Razor.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\WebGrease.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Helpers.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Mvc.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Optimization.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.Razor.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.WebPages.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.WebPages.Deployment.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\System.Web.WebPages.Razor.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Newtonsoft.Json.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Antlr3.Runtime.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\EntityFramework.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\EntityFramework.SqlServer.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Google.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\obj\Debug\MyApp.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\obj\Debug\MyApp.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\obj\Debug\MyApp.Migrations.InitialCreate.resources
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\MyApp\MyApp\obj\Debug\MyApp.Migrations.employees.resources
+E:\MyApp\MyApp\bin\MyApp.dll.config
+E:\MyApp\MyApp\bin\MyApp.dll
+E:\MyApp\MyApp\bin\MyApp.pdb
+E:\MyApp\MyApp\bin\Antlr3.Runtime.dll
+E:\MyApp\MyApp\bin\EntityFramework.dll
+E:\MyApp\MyApp\bin\EntityFramework.SqlServer.dll
+E:\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MyApp\MyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Google.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MyApp\MyApp\bin\Microsoft.Web.Infrastructure.dll
+E:\MyApp\MyApp\bin\Newtonsoft.Json.dll
+E:\MyApp\MyApp\bin\Owin.dll
+E:\MyApp\MyApp\bin\System.Web.Helpers.dll
+E:\MyApp\MyApp\bin\System.Web.Mvc.dll
+E:\MyApp\MyApp\bin\System.Web.Optimization.dll
+E:\MyApp\MyApp\bin\System.Web.Razor.dll
+E:\MyApp\MyApp\bin\System.Web.WebPages.Deployment.dll
+E:\MyApp\MyApp\bin\System.Web.WebPages.dll
+E:\MyApp\MyApp\bin\System.Web.WebPages.Razor.dll
+E:\MyApp\MyApp\bin\WebGrease.dll
+E:\MyApp\MyApp\bin\System.Web.Helpers.xml
+E:\MyApp\MyApp\bin\System.Web.Mvc.xml
+E:\MyApp\MyApp\bin\System.Web.Optimization.xml
+E:\MyApp\MyApp\bin\System.Web.Razor.xml
+E:\MyApp\MyApp\bin\System.Web.WebPages.xml
+E:\MyApp\MyApp\bin\System.Web.WebPages.Deployment.xml
+E:\MyApp\MyApp\bin\System.Web.WebPages.Razor.xml
+E:\MyApp\MyApp\bin\Newtonsoft.Json.xml
+E:\MyApp\MyApp\bin\Antlr3.Runtime.pdb
+E:\MyApp\MyApp\bin\EntityFramework.xml
+E:\MyApp\MyApp\bin\EntityFramework.SqlServer.xml
+E:\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MyApp\MyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Google.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MyApp\MyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MyApp\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+E:\MyApp\MyApp\obj\Debug\MyApp.Migrations.InitialCreate.resources
+E:\MyApp\MyApp\obj\Debug\MyApp.Migrations.employees.resources
+E:\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+E:\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+E:\MyApp\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+E:\MyApp\MyApp\obj\Debug\MyApp.dll
+E:\MyApp\MyApp\obj\Debug\MyApp.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\MyApp.dll.config
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\MyApp.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\MyApp.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Antlr3.Runtime.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\EntityFramework.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\EntityFramework.SqlServer.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Google.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Web.Infrastructure.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Newtonsoft.Json.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Owin.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Helpers.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Mvc.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Optimization.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Razor.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.WebPages.Deployment.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.WebPages.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.WebPages.Razor.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\WebGrease.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Helpers.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Mvc.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Optimization.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.Razor.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.WebPages.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.WebPages.Deployment.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\System.Web.WebPages.Razor.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Newtonsoft.Json.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Antlr3.Runtime.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\EntityFramework.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\EntityFramework.SqlServer.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Google.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\obj\Debug\MyApp.Migrations.InitialCreate.resources
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\obj\Debug\MyApp.Migrations.employees.resources
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\obj\Debug\MyApp.dll
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\My App\MyApp\MyApp\obj\Debug\MyApp.pdb
